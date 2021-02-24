@@ -6,6 +6,6 @@ I'm Alex from Urkaine , and I do content on Development. I learning languages an
 
 
 ##Skills and Experience 
-*💻 HTML , CSS , JS
-*🐲 Node js
-*📗 Vue js
+* 💻 HTML , CSS , JS
+* 🐲 Node js
+* 📗 Vue js
